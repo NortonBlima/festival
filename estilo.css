@@ -1,0 +1,33 @@
+body {
+    justify-content: center;
+
+    h1 {
+        font-family: Tahoma
+    }
+
+    h1 {
+        color: #f44b22
+    }
+
+    h2 {
+        font-family: Tahoma
+    }
+
+    h2 {
+        color: #f44b22
+    }
+
+    tr {
+        font-family: Arial;
+        color: #54b6af;
+    }
+
+    p {
+        font-family: Arial;
+        color: #54b6af;
+    }
+
+}
+html{
+    scroll-behavior:smooth ;
+}
